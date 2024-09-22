@@ -1,4 +1,4 @@
-What Gets Installed
+## What Gets Installed
 Apache2: Web server with PHP support (libapache2-mod-php).
 MariaDB: MySQL-compatible database server (mariadb-server).
 PHP: PHP and the necessary extensions for MySQL support (php, php-mysql).
