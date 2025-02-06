@@ -16,3 +16,9 @@ Docker: Latest version of Docker and Docker Compose, allowing you to run contain
 Git: Version control for your development projects.
 
 Visual Studio Code: Installed from the official Microsoft repository.
+
+
+//nvm
+portainer for docker
+dbgate
+snapstore
